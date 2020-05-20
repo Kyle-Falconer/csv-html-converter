@@ -5,7 +5,7 @@ A simple CLI utility for converting CSV to an HTML table. CSV input can be provi
 
 ## Setup:
 
-It's recommended to use either a [virtual environment](https://docs.python.org/3/library/venv.html) or something like [Anaconda](https://www.anaconda.com/) to create a python sandbox:
+As an optional recommended step, first set up either a [virtual environment](https://docs.python.org/3/library/venv.html) or something like [Anaconda](https://www.anaconda.com/) to create a python sandbox (use only one of these methods, not both):
 
 ```
 # with virtual environments in Python 3.7+
@@ -19,7 +19,7 @@ conda create -n csvutil python=3.8
 conda activate csvutil
 ```
 
-Once a virtual environment is created (use only one of the above methods, not both), install the requirements:
+Once a virtual environment is created, install the requirements:
 
 ```
 # using Python 3.x
